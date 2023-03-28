@@ -1,12 +1,16 @@
 {
   "name": "anie",
-  "version": "0.0.0",
-  "license": "MIT",
+  "version": "1.0.0",
+  "license": "Apache License",
   "scripts": {},
-  "private": true,
+  "private": false,
+  "author": {
+    "name": "Tapas Jena",
+    "email": "tapas.friends@gmail.com"
+  },
   "dependencies": {
     "@nrwl/next": "15.8.9",
-    "next": "13.1.1",
+    "next": "13.2.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "tslib": "^2.3.0"
@@ -52,6 +56,6 @@
     "swc-loader": "0.1.15",
     "ts-jest": "^29.0.5",
     "ts-node": "10.9.1",
-    "typescript": "~4.9.5"
+    "typescript": "~5.0.2"
   }
 }
