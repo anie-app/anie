@@ -1,2 +1,0 @@
-# anie
-Anie app monorepo
